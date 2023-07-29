@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactadeshtodo/static/css/main.d3b484d4.css",
+    "main.js": "/reactadeshtodo/static/js/main.376b02ce.js",
+    "static/js/787.fab5a10b.chunk.js": "/reactadeshtodo/static/js/787.fab5a10b.chunk.js",
+    "index.html": "/reactadeshtodo/index.html",
+    "main.d3b484d4.css.map": "/reactadeshtodo/static/css/main.d3b484d4.css.map",
+    "main.376b02ce.js.map": "/reactadeshtodo/static/js/main.376b02ce.js.map",
+    "787.fab5a10b.chunk.js.map": "/reactadeshtodo/static/js/787.fab5a10b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3b484d4.css",
+    "static/js/main.376b02ce.js"
+  ]
+}
